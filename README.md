@@ -6,3 +6,6 @@
 <img src="preview/preview.png" alt="ZIP-Forge preview banner" width="100%" />
 
 > Dark-theme preview banner. For full installation and run instructions, see **[SETUP.md](SETUP.md)**.
+
+## License
+MIT — Made by Sudais Alam
